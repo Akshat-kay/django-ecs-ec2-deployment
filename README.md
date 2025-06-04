@@ -103,41 +103,5 @@ Now the time has come to launch our first EC2 instance using AWS ECS. To begin w
 
 5. **Run instance by triggering the created task** — After doing all the above steps successfully, we are now at the stage of triggering our created task by entering into the cluster. After running our task we can check in the EC2 console whether our created instance is running or not.
 
-## Congratulazioni! 🙂
-
-**We have Successfully deployed our Django Application on AWS cloud using ECS and ECR.**
-
-As a Page of victory, check if the Django application is running correctly or not by navigating to the public DNS of the instance in the browser.
-
-Many other factors come into play when we deploy a full-fledged Django application on the production server. Some of these factors are as below:
-
-* Security
-* Monitoring
-* Load balancing
-* Recovery Plans
-
-To fulfill some of these factors, one can also use the `AWS Beanstalk` service to deploy Django apps more efficiently.
-
-**Happy Learning!**
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
 
 ![Follow Me](https://imgur.com/2j7GSPs.png)
