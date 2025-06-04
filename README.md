@@ -104,4 +104,4 @@ Now the time has come to launch our first EC2 instance using AWS ECS. To begin w
 5. **Run instance by triggering the created task** — After doing all the above steps successfully, we are now at the stage of triggering our created task by entering into the cluster. After running our task we can check in the EC2 console whether our created instance is running or not.
 
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
+
