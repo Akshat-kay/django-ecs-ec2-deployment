@@ -107,7 +107,7 @@ The deployed page renders a clean `hello.html` page with a styled background and
 ## 📬 Connect with Me
 
 👤 [Akshat-kay on GitHub](https://github.com/Akshat-kay)
-📫 [LinkedIn](https://linkedin.com/in/your-profile)
+📫 [LinkedIn](https://linkedin.com/in/786AKSHATK/)
 
 ---
 
