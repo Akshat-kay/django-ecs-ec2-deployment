@@ -1,7 +1,3 @@
-Absolutely! Here's a clean, professional `README.md` for your **Django on ECS EC2 Deployment** project:
-
----
-
 ### 📄 `README.md`
 
 ```markdown
